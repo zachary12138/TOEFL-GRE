@@ -1,4 +1,4 @@
-# TOEFL
+# TOEFL & GRE
 托福三个月系统备考秘籍--贺鲲羽
 ========================================================
 
@@ -24,3 +24,26 @@ __我在下面放上了是通往各模块备考秘籍的传送门，大家可以
 * [托福听力](https://github.com/QuinninR/TOEFL/blob/master/Documents/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B%E7%A7%98%E7%B1%8D.pdf)
 * [托福口语](https://github.com/QuinninR/TOEFL/blob/master/Documents/%E6%89%98%E7%A6%8F%E5%8F%A3%E8%AF%AD%E7%A7%98%E7%B1%8D.pdf)
 * [托福写作](https://github.com/QuinninR/TOEFL/blob/master/Documents/%E6%89%98%E7%A6%8F%E5%86%99%E4%BD%9C%E7%A7%98%E7%B1%8D.pdf)
+
+
+GRE天赋型选手七天备考秘籍（内亦有适用于其他人的备考心得）--贺鲲羽
+========================================================
+
+写在各位下载前
+----------------------
+
+大家好，我是贺鲲羽。之前托福秘籍推出后，有同学让我也做一份GRE秘籍。然后小贺实在是没心做这累人的事，且我的备考过程也没有太多好借鉴的，所以拖了一阵子。感谢新东方爸爸的慷慨，为了申报高分奖学金小贺还是写了一份心得出来。了解我的朋友都知道，绝对真实绝不掺水。希望大家用批判的眼光看待，我提到的复习材料是相当有用的，但最好别照搬我的方法和复习时间表。
+
+__备考历程回顾和心得可以看[这里](https://github.com/QuinninR/TOEFL/blob/master/Documents/GRE%E5%A4%87%E8%80%83%E5%BF%83%E5%BE%97.pdf)。__
+
+__我在下面放上了心得中提到的各个资料的下载链接，大家可以用电脑（最好别用手机）随意下载，或者耐心等待加载后在线查看。在仔细看过之后如果大家有更多问题，欢迎通过我的微信或是邮箱（Hekunyu96@gmail.com）联系我。朋友圈中的各位如果需要将这些文档分享给其他小伙伴，希望尽量分享原始链接。当然，你们直接发文件我也是不会介意的。__
+
+贺鲲羽
+于 2018年4月15日
+
+备考资源传送门
+----------------------
+* [张巍-GRE填空机经1000题](https://github.com/QuinninR/TOEFL/blob/master/Documents/%E5%BC%A0%E5%B7%8D-GRE%E5%A1%AB%E7%A9%BA%E6%9C%BA%E7%BB%8F1000%E9%A2%98%E9%9A%BE%E5%BA%A6%E5%88%86%E7%BA%A7%E7%89%88(%E5%90%AB%E7%AD%94%E6%A1%88).pdf)
+* [猴哥-GRE数学112难题](https://github.com/QuinninR/TOEFL/blob/master/Documents/%E7%8C%B4%E5%93%A5-GRE%E6%95%B0%E5%AD%A6112%E9%9A%BE%E9%A2%98.pdf)
+* [考满分-GRE机经1400词](https://github.com/QuinninR/TOEFL/blob/master/Documents/%E8%80%83%E6%BB%A1%E5%88%86-GRE%E9%95%87%E8%80%83%E6%9C%BA%E7%BB%8F1400%E8%AF%8D4.0.pdf)
+* [考满分网GRE版块(刷题用)](http://gre.kmf.com/)
