@@ -26,7 +26,7 @@ __我在下面放上了是通往各模块备考秘籍的传送门，大家可以
 * [托福写作](https://github.com/QuinninR/TOEFL/blob/master/Documents/%E6%89%98%E7%A6%8F%E5%86%99%E4%BD%9C%E7%A7%98%E7%B1%8D.pdf)
 
 
-GRE天赋型选手七天备考秘籍（内亦有适用于其他人的备考心得）--贺鲲羽
+GRE备考历程回顾和心得--贺鲲羽
 ========================================================
 
 写在各位下载前
@@ -43,5 +43,5 @@ __我在下面放上了心得中提到的各个资料的下载链接，大家可
 
 备考资源传送门
 ----------------------
-* [考满分-GRE机经1400词](https://github.com/QuinninR/TOEFL/blob/master/Documents/%E8%80%83%E6%BB%A1%E5%88%86-GRE%E9%95%87%E8%80%83%E6%9C%BA%E7%BB%8F1400%E8%AF%8D4.0.pdf)
-* [考满分网GRE版块(刷题用)](http://gre.kmf.com/)
+* [考满分-1400词](https://github.com/QuinninR/TOEFL/blob/master/Documents/%E8%80%83%E6%BB%A1%E5%88%86-GRE%E9%95%87%E8%80%83%E6%9C%BA%E7%BB%8F1400%E8%AF%8D4.0.pdf)
+* [考满分网GRE版块](http://gre.kmf.com/)
