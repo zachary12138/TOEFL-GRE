@@ -45,3 +45,5 @@ __我在下面放上了心得中提到的各个资料的下载链接，大家可
 ----------------------
 * [考满分-1400词](https://github.com/QuinninR/TOEFL/blob/master/Documents/%E8%80%83%E6%BB%A1%E5%88%86-GRE%E9%95%87%E8%80%83%E6%9C%BA%E7%BB%8F1400%E8%AF%8D4.0.pdf)
 * [考满分网GRE版块](http://gre.kmf.com/)
+* [猴哥-GRE数学112难题](https://github.com/QuinninR/TOEFL-GRE/blob/master/Documents/%E7%8C%B4%E5%93%A5-GRE%E6%95%B0%E5%AD%A6112%E9%9A%BE%E9%A2%98.pdf)
+* [张巍-GRE填空机经1000题难度分级版(含答案)](https://github.com/QuinninR/TOEFL-GRE/blob/master/Documents/%E5%BC%A0%E5%B7%8D-GRE%E5%A1%AB%E7%A9%BA%E6%9C%BA%E7%BB%8F1000%E9%A2%98%E9%9A%BE%E5%BA%A6%E5%88%86%E7%BA%A7%E7%89%88(%E5%90%AB%E7%AD%94%E6%A1%88).pdf)
